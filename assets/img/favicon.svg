@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Galwiki 标志">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6742c9"/>
+      <stop offset="1" stop-color="#d64d86"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#g)"/>
+  <path d="M13 17c7-3 14-3 19 1 5-4 12-4 19-1v29c-7-3-14-3-19 1-5-4-12-4-19-1V17z" fill="none" stroke="#fff" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M32 18v29" stroke="#fff" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M46 9l1.5 3.5L51 14l-3.5 1.5L46 19l-1.5-3.5L41 14l3.5-1.5L46 9z" fill="#ffe6a7"/>
+</svg>

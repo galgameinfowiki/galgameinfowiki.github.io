@@ -1,0 +1,7 @@
+# Galwiki · 视觉小说与 Galgame 文化图鉴
+User-agent: *
+Allow: /
+Disallow: /search-index.json
+
+# 站点地图
+Sitemap: https://galgameinfowiki.github.io/sitemap.xml

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galwiki · 视觉小说与 Galgame 文化图鉴</title>
+    <link>https://galgameinfowiki.github.io/</link>
+    <description>用清晰、准确、无剧透的方式讲清 Galgame 是什么：从 1994 年《心跳回忆》到 Key 社、TYPE-MOON 的剧情向经典，提供新手入门指南、作品图鉴、发展简史、术语词典与常见问题。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://galgameinfowiki.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Galgame 是什么？视觉小说入门、经典作品与发展简史 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/</guid>
+      <description>Galgame 是什么？用不剧透、可核查的方式讲清定义、与视觉小说的区别、四十年发展简史和 16 部剧情向经典作品，附新手入门指南、术语词典与常见问题。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galgame 新手入门指南：第一部怎么选、要玩多久、怎么避坑 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/guide.html</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/guide.html</guid>
+      <description>第一次玩 Galgame 该从哪部开始？六步入门法：确认载体是否适合你、选平台与官方中文版、按口味挑第一部、通关时长参考、认识路线与存档系统、避坑与社区礼仪。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galgame 经典作品图鉴：16 部剧情向作品与全年龄版本说明 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/works.html</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/works.html</guid>
+      <description>16 部剧情向 Galgame 资料：CLANNAD、命运石之门、Ever17、白色相簿2、Summer Pockets、Fate/stay night 等的发售年份、厂商、题材、分级与适合人群，并说明全年龄版怎么看。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galgame 发展简史：从 1985 到今天的 11 个关键节点 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/history.html</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/history.html</guid>
+      <description>Galgame 四十年发展史编年：1985 萌芽、1992《同级生》、1994《心跳回忆》、1996 视觉小说命名、1998 Key 社成立、2004《CLANNAD》全年龄转向、2014 Steam 渠道，附资料来源与常见年份勘误。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galgame 术语词典：47 个高频词一次讲清 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/glossary.html</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/glossary.html</guid>
+      <description>Galgame 常用术语大全：路线、共通线、flag、True End、立绘、CG、差分、FD、泣きゲー、全年龄版等 47 个词，按基础概念、玩法结构、美术制作、版本发行、社区用语五组整理。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galgame 和视觉小说的区别：AVG、ADV、乙女游戏概念辨析 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/compare.html</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/compare.html</guid>
+      <description>Galgame 和视觉小说有什么区别？AVG、ADV、恋爱模拟、乙女游戏、全年龄版分别指什么？用一张对照表讲清各概念描述的维度，并给出中文语境下的推荐用法。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galgame 常见问题 15 问：分级、中文、时长、平台与入门 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/faq.html</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/faq.html</guid>
+      <description>Galgame 常见问题集中解答：是不是 18 禁、需要日语吗、有官方中文吗、第一部选什么、要玩多久、手机能玩吗、全年龄版差在哪、为什么行业规模缩小、本站是否提供下载。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于 Galwiki：站点定位、内容边界与编辑方针 | Galwiki</title>
+      <link>https://galgameinfowiki.github.io/about.html</link>
+      <guid isPermaLink="true">https://galgameinfowiki.github.io/about.html</guid>
+      <description>Galwiki 是面向中文读者的 Galgame 与视觉小说文化科普站。了解我们的内容边界、事实核对方针、隐私政策、技术说明与参考资料来源。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
